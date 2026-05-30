@@ -2,8 +2,7 @@
 
 MotionGuard is a Flutter app for motion-aware theft and snatch detection.
 
-The current codebase is a fresh Flutter foundation. The older Android/Kotlin
-project at `D:\academic\MotionGuard` is treated as a behavioral reference only.
+
 
 ## Current Scope
 
@@ -19,5 +18,4 @@ flutter pub get
 flutter test
 ```
 
-Docs and agent handoff notes live under `docs/` and are intentionally ignored by
-Git.
+
